@@ -1,2 +1,3 @@
 # MyDeepLearningNotebook
-Markdown the notes of my learning experiences in deep learning, and welcome everyone to communicate with me!
+Hi, I am Junhong!
+This repo is aim to markdown my experiences in deep learning study, and welcome everyone to communicate with me!
